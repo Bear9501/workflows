@@ -11,9 +11,9 @@ $ids = array(
 "48"=>"576",//momo購物1台
 "51"=>"590",//東森新聞
 "52"=>"591",//中天新聞台
-"53"=>"592",//民視新聞台
+"53"=>"ftvnews.m3u8",//民視新聞台
 "55"=>"342",//TVBS新聞台
-"56"=>"589",//TVBS
+"56"=>"56.m3u8",//TVBS
 "57"=>"583",//東森財經新聞
 "59"=>"26",//viva購物1台
 "86"=>"602",//信吉電視台
@@ -37,8 +37,8 @@ $ids = array(
 "222"=>"19",//寰宇新聞台
 "297"=>"573",//大愛二台
 
-);
-    header("Location: http://ZuuVGPXm6kT6VT.movieyo.net:23423/live.m3u8?c=$ids[$id]"); //http://tv.ionetv.gq/tv.php?id=56
+);                    
+    header("Location: https://bear9501.github.io/workflows/$ids[$id]"); //https://github.com/Bear9501/workflows/blob/main/tv1.php?id=56
 
-   // exit();
+   // exit(); https://bear9501.github.io/workflows/56.m3u8  ,http://zuuvgpxm6kt6vt.movieyo.net:38753/live.m3u8?c=621
 ?>  
