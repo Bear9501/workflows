@@ -37,8 +37,10 @@ $ids = array(
 "222"=>"19",//寰宇新聞台
 "297"=>"573",//大愛二台
 
-);                    
-    header("Location: https://bear9501.github.io/workflows/$ids[$id]"); //https://raw.githubusercontent.com/Bear9501/workflows/main/tv1.php?id=56
+);   
+
+$url="https://raw.githubusercontent.com/Bear9501/workflows/main/tv1.php?url=$ids[$id]";                 
+   // header("Location: https://bear9501.github.io/workflows/$ids[$id]"); //https://raw.githubusercontent.com/Bear9501/workflows/main/tv1.php?id=56
 
    // exit(); https://bear9501.github.io/workflows/56.m3u8  ,http://zuuvgpxm6kt6vt.movieyo.net:38753/live.m3u8?c=621
 ?>  
