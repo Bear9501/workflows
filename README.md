@@ -56,11 +56,11 @@
 
 [29三立iNews新聞](https://www.youtube.com/watch?v=CKjSm5ZeehE)
 
-[30東森新聞](https://www.youtube.com/watch?v=R2iMq5LKXco)
+[51.東森新聞](https://www.youtube.com/watch?v=lg1GeR-0uTc)
 
 [31寰宇新聞](https://www.youtube.com/watch?v=-s6BflnoCrQ)
 
-[32TVBS新聞](https://www.youtube.com/watch?v=2mCSYvcfhtc)
+[55.TVBS新聞](https://www.youtube.com/watch?v=lXzPc7rv0nw)
 
 [33大愛](https://www.youtube.com/watch?v=MIqUplvSRWA)
 
