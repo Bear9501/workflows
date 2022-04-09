@@ -83,7 +83,7 @@
 
 59.鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-
+短網址.https://is.gd/index.php
 
 
 01.中視新聞台,https://is.gd/U9exn4
@@ -105,7 +105,6 @@
 53.民視新聞台,https://is.gd/2gnhFV
 
 54.三立新聞台,https://is.gd/vl5643
-
 
 55.TVBS新聞台,https://is.gd/FmwYFB
 
