@@ -57,31 +57,32 @@
 [41 8 FM](https://www.youtube.com/watch?v=GOiCIPAtdHA)
 
 
-[01.中視新聞](https://www.youtube.com/watch?v=TCnaIE_SAtM)
+01.中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-[02.華視新聞](https://www.youtube.com/watch?v=wM0g8EoUZ_E)
+02.華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
-[09.台視新聞](https://www.youtube.com/watch?v=xL0ch83RAK8)
+09.台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
-[46.大愛一台](https://www.youtube.com/watch?v=MIqUplvSRWA)
+46.大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA
 
-[47.大愛二台](https://www.youtube.com/watch?v=DTNkEm6jaqQ)
+47.大愛二台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 
-[48.寰宇新聞](https://www.youtube.com/watch?v=B7Zp3d6xXWw)
+48.寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-[51.東森新聞](https://www.youtube.com/watch?v=lg1GeR-0uTc)
+51.東森新聞,https://www.youtube.com/watch?v=lg1GeR-0uTc
 
-[52.中天電視](https://www.youtube.com/watch?v=_QbRXRnHMVY)
+52.中天電視,https://www.youtube.com/watch?v=_QbRXRnHMVY
 
-[53.民視新聞](https://www.youtube.com/watch?v=yguQ1SzPM5U)
+53.民視新聞,https://www.youtube.com/watch?v=yguQ1SzPM5U
 
-[54.三立iNews新聞](https://www.youtube.com/watch?v=EB4g7wecgTI)
+54.三立新聞,https://www.youtube.com/watch?v=EB4g7wecgTI
 
-[55.TVBS新聞](https://www.youtube.com/watch?v=lXzPc7rv0nw)
+55.TVBS新聞,https://www.youtube.com/watch?v=lXzPc7rv0nw
 
-[57.東森財經](https://www.youtube.com/watch?v=ABn_ccXn_jc)
+57.東森財經,https://www.youtube.com/watch?v=ABn_ccXn_jc
 
-[59.鏡新聞](https://www.youtube.com/watch?v=5n0y6b0Q25o)
+59.鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
 
 
 
