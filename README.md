@@ -57,8 +57,9 @@
 [41 8 FM](https://www.youtube.com/watch?v=GOiCIPAtdHA)
 
 
+[01.中視新聞](https://www.youtube.com/watch?v=TCnaIE_SAtM)
 
-[09.華視新聞](https://www.youtube.com/watch?v=wM0g8EoUZ_E)
+[02.華視新聞](https://www.youtube.com/watch?v=wM0g8EoUZ_E)
 
 [09.台視新聞](https://www.youtube.com/watch?v=xL0ch83RAK8)
 
