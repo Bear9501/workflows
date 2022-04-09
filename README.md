@@ -24,7 +24,7 @@
 
 [13運通財經](https://www.youtube.com/watch?v=qX1W7lZQp5A)
 
-[14全球財經](https://www.youtube.com/watch?v=i7GVhM60Hi4)
+🚫[14全球財經](https://www.youtube.com/watch?v=i7GVhM60Hi4)
 
 [15海豚綜合](https://www.youtube.com/watch?v=Lde1rqHuUpM)
 
@@ -42,16 +42,6 @@
 
 [22雙子衛視](https://www.youtube.com/watch?v=jTS3A4D4x6Q)
 
-[25台視新聞](https://www.youtube.com/watch?v=xL0ch83RAK8)
-
-
-
-[28三立Live新聞](https://www.youtube.com/watch?v=FoBfXvlOR6I)
-
-[33大愛](https://www.youtube.com/watch?v=MIqUplvSRWA)
-
-[34大愛2](https://www.youtube.com/watch?v=DTNkEm6jaqQ)
-
 [35彰化生活](https://www.youtube.com/watch?v=68wEJkiC0y8)
 
 [36國會頻道1](https://www.youtube.com/watch?v=jRsyBLhot6E)
@@ -66,9 +56,13 @@
 
 [41 8 FM](https://www.youtube.com/watch?v=GOiCIPAtdHA)
 
-[46.鏡新聞](https://www.youtube.com/watch?v=5n0y6b0Q25o)
 
-[47.鏡新聞](https://www.youtube.com/watch?v=5n0y6b0Q25o)
+
+[09.台視新聞](https://www.youtube.com/watch?v=xL0ch83RAK8)
+
+[46.大愛](https://www.youtube.com/watch?v=MIqUplvSRWA)
+
+[47.大愛2](https://www.youtube.com/watch?v=DTNkEm6jaqQ)
 
 [48.寰宇新聞](https://www.youtube.com/watch?v=B7Zp3d6xXWw)
 
@@ -83,3 +77,5 @@
 [55.TVBS新聞](https://www.youtube.com/watch?v=lXzPc7rv0nw)
 
 [57.東森財經](https://www.youtube.com/watch?v=ABn_ccXn_jc)
+
+[59.鏡新聞](https://www.youtube.com/watch?v=5n0y6b0Q25o)
