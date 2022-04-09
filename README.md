@@ -44,7 +44,7 @@
 
 [23東森財經](https://www.youtube.com/watch?v=ABn_ccXn_jc)
 
-[52.中天電視](https://www.youtube.com/watch?v=QbRXRnHMVY)
+[52.中天電視](https://www.youtube.com/watch?v=_QbRXRnHMVY)
 
 [25台視新聞](https://www.youtube.com/watch?v=xL0ch83RAK8)
 
