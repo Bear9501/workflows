@@ -44,7 +44,7 @@
 
 [23東森財經](https://www.youtube.com/watch?v=ABn_ccXn_jc)
 
-[52.中天電視](https://www.youtube.com/watch?v=_QbRXRnHMVY)
+
 
 [25台視新聞](https://www.youtube.com/watch?v=xL0ch83RAK8)
 
@@ -56,11 +56,9 @@
 
 [29三立iNews新聞](https://www.youtube.com/watch?v=CKjSm5ZeehE)
 
-[51.東森新聞](https://www.youtube.com/watch?v=lg1GeR-0uTc)
+
 
 [31寰宇新聞](https://www.youtube.com/watch?v=-s6BflnoCrQ)
-
-[55.TVBS新聞](https://www.youtube.com/watch?v=lXzPc7rv0nw)
 
 [33大愛](https://www.youtube.com/watch?v=MIqUplvSRWA)
 
@@ -80,3 +78,6 @@
 
 [41 8 FM](https://www.youtube.com/watch?v=GOiCIPAtdHA)
 
+[51.東森新聞](https://www.youtube.com/watch?v=lg1GeR-0uTc)
+[52.中天電視](https://www.youtube.com/watch?v=_QbRXRnHMVY)
+[55.TVBS新聞](https://www.youtube.com/watch?v=lXzPc7rv0nw)
