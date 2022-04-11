@@ -57,7 +57,7 @@
 [41 8 FM](https://www.youtube.com/watch?v=GOiCIPAtdHA)
 
 
-01.中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+01.中視新聞,https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live
 
 02.華視新聞,https://www.youtube.com/c/CtsTw/live
 
@@ -83,7 +83,7 @@
 
 53.民視新聞,https://www.youtube.com/watch?v=yguQ1SzPM5U
 
-54.三立新聞,https://www.youtube.com/watch?v=EB4g7wecgTI
+54.三立新聞,https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live
 
 55.TVBS新聞,https://www.youtube.com/watch?v=lXzPc7rv0nw
 
@@ -117,6 +117,8 @@
 54.三立新聞台,https://is.gd/vl5643
 
 55.TVBS新聞台,https://is.gd/FmwYFB
+
+56.TVBS,https://is.gd/JkpB6P
 
 57.東森財經新聞台,https://is.gd/3j3DmI
 
