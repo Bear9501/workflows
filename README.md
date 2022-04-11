@@ -87,7 +87,7 @@
 
 55.TVBS新聞,https://www.youtube.com/watch?v=lXzPc7rv0nw
 
-56.TVBS選新聞,https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live
+56.TVBS,https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live
 
 57.東森財經,https://www.youtube.com/channel/UCm79LGHsPw1jVWzHDtHXfkQ/live
 
