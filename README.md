@@ -63,9 +63,9 @@
 
 09.台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
-13.公視,https://www.youtube.com/watch?v=4Uc00FPs27M
+13.公視,https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live
 
-14.公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
+14.公視台語,https://www.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/live
 
 34.東森購物2台,https://www.youtube.com/channel/UCiolqpxuocdomP4hPGfn_-A/live
 
