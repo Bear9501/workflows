@@ -174,16 +174,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(youtube-dl -g https://www.youtube.com/watch?v=5n0y6b0Q25o)
-        EOL
-    - name: Get a1.m3u8
-      run: |
-        touch ./a1.m3u8
-        sudo cat >./a1.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ/live)
-        EOL 		
+        EOL		
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
