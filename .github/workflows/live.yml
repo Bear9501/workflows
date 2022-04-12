@@ -18,7 +18,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=TCnaIE_SAtM)
+        $(youtube-dl -g https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live)
         EOL
     - name: Get 02.m3u8
       run: |
@@ -27,7 +27,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=wM0g8EoUZ_E)
+        $(youtube-dl -g https://www.youtube.com/c/CtsTw/live)
         EOL 
     - name: Get 09.m3u8
       run: |
@@ -83,7 +83,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/channel/UClrEYreVkBee7ZQYei_6Jqg/live)
+        $(youtube-dl -g https://www.youtube.com/watch?v=oV_i3Hsl_zg&t=0s)
         EOL  
     - name: Get 47.m3u8
       run: |
@@ -92,7 +92,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=DTNkEm6jaqQ)
+        $(youtube-dl -g https://www.youtube.com/channel/UClrEYreVkBee7ZQYei_6Jqg/live)
         EOL  
     - name: Get 48.m3u8
       run: |
@@ -137,7 +137,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=EB4g7wecgTI)
+        $(youtube-dl -g https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live)
         EOL  
     - name: Get 55.m3u8
       run: |
@@ -174,7 +174,16 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(youtube-dl -g https://www.youtube.com/watch?v=5n0y6b0Q25o)
-        EOL          
+        EOL
+    - name: Get a1.m3u8
+      run: |
+        touch ./a1.m3u8
+        sudo cat >./a1.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ/live)
+        EOL 		
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
