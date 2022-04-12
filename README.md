@@ -71,9 +71,9 @@
 
 35.momo購物2台,https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live
 
-46.大愛一台,https://www.youtube.com/channel/UClrEYreVkBee7ZQYei_6Jqg/live
+46.大愛一台,https://www.youtube.com/watch?v=oV_i3Hsl_zg&t=0s
             
-47.大愛二台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+47.大愛二台,https://www.youtube.com/channel/UClrEYreVkBee7ZQYei_6Jqg/live
 
 48.寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
@@ -87,11 +87,13 @@
 
 55.TVBS新聞,https://www.youtube.com/watch?v=lXzPc7rv0nw
 
-56.TVBS,https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live
+56.TVBS選新聞,https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live
 
 57.東森財經,https://www.youtube.com/channel/UCm79LGHsPw1jVWzHDtHXfkQ/live
 
 59.鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+a1.Muse木棉花,https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ/live
 
 短網址.https://is.gd/index.php
 
