@@ -56,10 +56,11 @@
 
 [41 8 FM](https://www.youtube.com/watch?v=GOiCIPAtdHA)
 
+🚫[42.華視新聞](https://www.youtube.com/watch?v=wM0g8EoUZ_E)
 
 01.中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-02.華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+02.華視新聞,https://www.youtube.com/channel/UCDCJyLpbfgeVE9iZiEam-Kg/live
 
 09.台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
@@ -71,9 +72,9 @@
 
 35.momo購物2台,https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live
 
-46.大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA&t=0s
+46.大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA
             
-47.大愛二台,https://www.youtube.com/watch?v=DTNkEm6jaqQ&t=0s
+47.大愛二台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 
 48.寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
