@@ -71,9 +71,9 @@
 
 35.momo購物2台,https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live
 
-46.大愛一台,https://www.youtube.com/watch?v=oV_i3Hsl_zg
+46.大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA&t=0s
             
-47.大愛二台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+47.大愛二台,https://www.youtube.com/watch?v=DTNkEm6jaqQ&t=0s
 
 48.寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
