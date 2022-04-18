@@ -35,7 +35,10 @@
 59.鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 亞洲旅遊台,https://www.youtube.com/watch?v=K-8j1JOx6g8
+
 靖天電視台,https://www.youtube.com/watch?v=JAElED3uNVU
+
+美食星球,https://www.youtube.com/watch?v=GGafFe1tFII
 
 https://raw.githubusercontent.com/Bear9501/workflows/YTlive/55.m3u8
 
