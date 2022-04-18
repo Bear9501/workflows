@@ -1,6 +1,6 @@
 01.中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-02.華視新聞,https://www.youtube.com/channel/UCDCJyLpbfgeVE9iZiEam-Kg/live
+02.亞洲旅遊台,https://www.youtube.com/watch?v=K-8j1JOx6g8
 
 09.台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
@@ -8,9 +8,9 @@
 
 14.公視台語,https://www.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/live
 
-34.東森購物2台,https://www.youtube.com/channel/UCiolqpxuocdomP4hPGfn_-A/live
+34.靖天電視台,https://www.youtube.com/watch?v=JAElED3uNVU
 
-35.momo購物2台,https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live
+35.美食星球,https://www.youtube.com/watch?v=GGafFe1tFII
 
 46.大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA
             
@@ -35,6 +35,11 @@
 59.鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 
+亞洲旅遊台,https://www.youtube.com/watch?v=K-8j1JOx6g8
+
+靖天電視台,https://www.youtube.com/watch?v=JAElED3uNVU
+
+美食星球,https://www.youtube.com/watch?v=GGafFe1tFII
 
 
 https://raw.githubusercontent.com/Bear9501/workflows/YTlive/55.m3u8
@@ -44,7 +49,13 @@ https://raw.githubusercontent.com/Bear9501/workflows/YTlive/55.m3u8
 
 01.中視新聞台,https://is.gd/U9exn4
 
+02.亞洲旅遊台,https://is.gd/qknBd6
+
 09.台視新聞台,https://is.gd/3lOLG1
+
+34.靖天電視台,https://is.gd/bA07z2
+
+35.美食星球,https://is.gd/VipHQg
 
 46.大愛一台,https://is.gd/Kf3cJx
 
