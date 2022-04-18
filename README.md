@@ -18,7 +18,7 @@
 
 48.寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-51.東森新聞,https://wwe.youtube.com/watch?v=HIbV2WRek14
+51.東森新聞,https://www.youtube.com/watch?v=lg1GeR-0uTc
 
 52.中天電視,https://www.youtube.com/watch?v=_QbRXRnHMVY
 
@@ -34,11 +34,8 @@
 
 59.鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-亞洲旅遊台,https://www.youtube.com/watch?v=K-8j1JOx6g8
 
-靖天電視台,https://www.youtube.com/watch?v=JAElED3uNVU
 
-美食星球,https://www.youtube.com/watch?v=GGafFe1tFII
 
 https://raw.githubusercontent.com/Bear9501/workflows/YTlive/55.m3u8
 
@@ -46,8 +43,6 @@ https://raw.githubusercontent.com/Bear9501/workflows/YTlive/55.m3u8
 
 
 01.中視新聞台,https://is.gd/U9exn4
-
-02.華視新聞台,https://is.gd/qknBd6
 
 09.台視新聞台,https://is.gd/3lOLG1
 
@@ -116,6 +111,10 @@ https://raw.githubusercontent.com/Bear9501/workflows/YTlive/55.m3u8
 [21桐瑛台中](https://www.youtube.com/watch?v=fkgDWd38jqQ)
 
 [22雙子衛視](https://www.youtube.com/watch?v=jTS3A4D4x6Q)
+
+[34.東森購物2台](https://www.youtube.com/channel/UCiolqpxuocdomP4hPGfn_-A/live)
+
+[35.momo購物2台](https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live)
 
 [35彰化生活](https://www.youtube.com/watch?v=68wEJkiC0y8)
 
