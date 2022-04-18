@@ -1,16 +1,16 @@
-01.中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+01.中視新聞,https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live
 
-02.亞洲旅遊台,https://www.youtube.com/watch?v=K-8j1JOx6g8
+02.亞洲旅遊台🔝,https://www.youtube.com/watch?v=K-8j1JOx6g8
 
-09.台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+09.台視新聞,https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww/live
 
 13.公視,https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live
 
 14.公視台語,https://www.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/live
 
-34.靖天電視台,https://www.youtube.com/watch?v=JAElED3uNVU
+34.靖天電視台🔝,https://www.youtube.com/watch?v=JAElED3uNVU
 
-35.美食星球,https://www.youtube.com/watch?v=GGafFe1tFII
+35.美食星球🔝,https://www.youtube.com/watch?v=GGafFe1tFII
 
 46.大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA
             
@@ -22,7 +22,7 @@
 
 52.中天電視,https://www.youtube.com/watch?v=_QbRXRnHMVY
 
-53.民視新聞,https://www.youtube.com/watch?v=yguQ1SzPM5U
+53.民視新聞,https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA/live
 
 54.三立新聞,https://www.youtube.com/watch?v=EB4g7wecgTI
 
@@ -35,49 +35,43 @@
 59.鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 
-亞洲旅遊台,https://www.youtube.com/watch?v=K-8j1JOx6g8
-
-靖天電視台,https://www.youtube.com/watch?v=JAElED3uNVU
-
-美食星球,https://www.youtube.com/watch?v=GGafFe1tFII
-
 
 https://raw.githubusercontent.com/Bear9501/workflows/YTlive/55.m3u8
 
 短網址.https://is.gd/index.php
 
 
-01.中視新聞台,https://is.gd/U9exn4
+中視新聞台,https://is.gd/U9exn4
 
-02.亞洲旅遊台,https://is.gd/qknBd6
+亞洲旅遊台,https://is.gd/qknBd6
 
-09.台視新聞台,https://is.gd/3lOLG1
+台視新聞台,https://is.gd/3lOLG1
 
-34.靖天電視台,https://is.gd/bA07z2
+靖天電視台,https://is.gd/bA07z2
 
-35.美食星球,https://is.gd/VipHQg
+美食星球,https://is.gd/VipHQg
 
-46.大愛一台,https://is.gd/Kf3cJx
+大愛一台,https://is.gd/Kf3cJx
 
-47.大愛二台,https://is.gd/TOhttV
+大愛二台,https://is.gd/TOhttV
 
-48.寰宇新聞台,https://is.gd/rbCCAk
+寰宇新聞台,https://is.gd/rbCCAk
 
-51.東森新聞台,https://is.gd/X3HrcN
+東森新聞台,https://is.gd/X3HrcN
 
-52.中天新聞台,https://is.gd/D0z0DK
+中天新聞台,https://is.gd/D0z0DK
 
-53.民視新聞台,https://is.gd/2gnhFV
+民視新聞台,https://is.gd/2gnhFV
 
-54.三立新聞台,https://is.gd/vl5643
+三立新聞台,https://is.gd/vl5643
 
-55.TVBS新聞台,https://is.gd/FmwYFB
+TVBS新聞台,https://is.gd/FmwYFB
 
-56.TVBS,https://is.gd/JkpB6P
+TVBS,https://is.gd/JkpB6P
 
-57.東森財經新聞台,https://is.gd/3j3DmI
+東森財經新聞台,https://is.gd/3j3DmI
 
-59.鏡新聞,https://is.gd/PPx0bV
+鏡新聞,https://is.gd/PPx0bV
 
 [01天才衝衝衝](https://www.youtube.com/watch?v=jp0xRMIosSw)
 
@@ -97,7 +91,7 @@ https://raw.githubusercontent.com/Bear9501/workflows/YTlive/55.m3u8
 
 [09信吉衛視](https://www.youtube.com/watch?v=I1TUDXaEnbE)
 
-[10天良綜合](https://www.youtube.com/watch?v=tMs4xVO_OAw)
+[10天良綜合](https://www.youtube.com/watch?v=TYHUvC2v864)
 
 [11信大電視](https://www.youtube.com/watch?v=wldWQnyVwpk)
 
