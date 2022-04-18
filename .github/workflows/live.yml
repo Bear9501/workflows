@@ -18,7 +18,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/watch?v=TCnaIE_SAtM)
+        $(youtube-dl -g https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live)
         EOL
     - name: Get 02.m3u8
       run: |
@@ -36,7 +36,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/watch?v=xL0ch83RAK8)
+        $(youtube-dl -g https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww/live)
         EOL   
     - name: Get 13.m3u8
       run: |
