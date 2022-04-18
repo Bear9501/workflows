@@ -34,7 +34,7 @@
 
 59.鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-
+亞洲旅遊台,https://www.youtube.com/watch?v=K-8j1JOx6g8
 
 
 https://raw.githubusercontent.com/Bear9501/workflows/YTlive/55.m3u8
