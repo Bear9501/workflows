@@ -18,7 +18,7 @@
 
 48.寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-51.東森新聞,https://www.youtube.com/watch?v=lg1GeR-0uTc
+51.東森新聞,https://www.youtube.com/watch?v=HIbV2WRek14
 
 52.中天電視,https://www.youtube.com/watch?v=_QbRXRnHMVY
 
