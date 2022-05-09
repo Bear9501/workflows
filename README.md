@@ -2,6 +2,8 @@
 
 02.亞洲旅遊台🔝,https://www.youtube.com/watch?v=K-8j1JOx6g8
 
+08.台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
+
 09.台視新聞,https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww/live
 
 13.公視,https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live
