@@ -7,8 +7,10 @@
 09.台視新聞,https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww/live
 
 13.公視,https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live
+https://www.youtube.com/watch?v=4Uc00FPs27M
 
 14.公視台語,https://www.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/live
+https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 34.靖天電視台🔝,https://www.youtube.com/watch?v=JAElED3uNVU
 
