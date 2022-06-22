@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 54.三立新聞,https://www.youtube.com/watch?v=EB4g7wecgTI
 
-55.TVBS新聞🔝,https://www.youtube.com/watch?v=pZC2WtyUtr4
+55.TVBS新聞🔝,https://www.youtube.com/watch?v=0KGvqYWW5QY
 
 56.TVBS選新聞,https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live
 
