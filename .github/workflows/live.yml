@@ -27,7 +27,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/watch?v=K-8j1JOx6g8)
+        $(youtube-dl -g https://www.youtube.com/watch?v=M189jon9e6k)
         EOL 
     - name: Get 08.m3u8
       run: |
