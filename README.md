@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 48.寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-51.東森新聞,https://www.youtube.com/watch?v=WPFwCCzjxDQ
+51.東森新聞,https://www.youtube.com/watch?v=_uD7jA-ee78
 
 52.中天電視,https://www.youtube.com/watch?v=_QbRXRnHMVY
 
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 54.三立新聞,https://www.youtube.com/watch?v=EB4g7wecgTI
 
-55.TVBS新聞🔝,https://www.youtube.com/watch?v=0KGvqYWW5QY
+55.TVBS新聞🔝,https://www.youtube.com/watch?v=BiOFto3xqrk
 
 56.TVBS選新聞,https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live
 
